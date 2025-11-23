@@ -43,7 +43,7 @@ La suppression peut prendre jusqu'à 1 semaine.
 
 Pour toute question :
 - **Email** : frieren.pro1@gmail.com
-- **Serveur Discord de support** : https://discord.gg/GPMScsNr9R
+- **Serveur Discord de support** : https://discord.gg/Xx9qkWbdnJ
 
 ---
 
