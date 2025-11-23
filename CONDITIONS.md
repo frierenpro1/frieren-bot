@@ -29,7 +29,7 @@ Nous pouvons suspendre ou révoquer l'accès au bot si vous violez ces condition
 
 Pour toute question :
 - **Email** : frieren.pro1@gmail.com
-- **Serveur Discord** : https://discord.gg/GPMScsNr9R
+- **Serveur Discord de support** : https://discord.gg/GPMScsNr9R
 
 ---
 
