@@ -11,4 +11,4 @@ Ce dépôt contient les documents officiels relatifs aux conditions d’utilisat
 ## 📌 Informations
 - Bot : **Frieren Bot** (Discord)
 - Contact : frieren.pro1@gmail.com
-- Serveur support : [Lien Discord](https://discord.gg/GPMScsNr9R)
+- Serveur support : https://discord.gg/Xx9qkWbdnJ
